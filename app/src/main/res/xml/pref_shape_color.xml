@@ -1,0 +1,10 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- XML Preference untuk membuat list setting pada PreferenceActivity -->
+    <Preference
+        android:key="shape_key"
+        android:title="@string/pref_shape_color"
+        android:summary="Green">
+    </Preference>
+
+</PreferenceScreen>
